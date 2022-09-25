@@ -1,6 +1,14 @@
 nav{
-    background: blueviolet;
+    background: #248828;
 }
 .navbar-brand{
     color: aliceblue;
+}
+.contact{
+    background: #AAE6AC;
+    width: 100%;
+}
+#stf{
+    width: 35%;
+    margin: 5%;
 }
